@@ -1,0 +1,34 @@
+{
+  "name": "@miez/xerrors",
+  "version": "0.0.9",
+  "description": "A collection of custom errors",
+  "engines": {
+    "node": ">=7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miezhq/miez-xerrors.git"
+  },
+  "contributors": [
+    "Robert Onodi (https://github.com/robert52)",
+    "Robert Richter (https://github.com/robi-richter)"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/miezhq/miez-xerrors/issues"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    ".gitignore",
+    "index.js",
+    "XError.js",
+    "XErrorConflict.js",
+    "XErrorForbidden.js",
+    "XErrorNotFound.js",
+    "XErrorUnauthorized.js",
+    "XErrorUnprocessableEntity.js"
+  ]
+}
