@@ -14,7 +14,7 @@ $ npm install @miez/xerrors --save
 
 ```javascript
 
-const XErrorNotFound = require('@miez/xerrros/XErrorNotFound');
+const XErrorNotFound = require('@miez/xerros/XErrorNotFound');
 
 function doSomething(data) {
   if (!data) {
